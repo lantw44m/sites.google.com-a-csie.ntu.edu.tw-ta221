@@ -1,0 +1,107 @@
+#mtree
+. time=1629859306.384402000 mode=755 type=dir
+./about time=1629859069.835502000 mode=755 type=dir
+./about/index.html time=1629859069.836213000 mode=644 type=file size=5856
+./announcements time=1629859073.698656000 mode=755 type=dir
+./announcements/Email_ta221.png time=1629859073.700419000 mode=644 type=file size=1650
+./announcements/index.html time=1629859068.778953000 mode=644 type=file size=44828
+./announcements/Telecom time=1629859069.678804000 mode=755 type=dir
+./announcements/Telecom/index.html time=1629859069.679910000 mode=644 type=file size=4789
+./announcements/csie-guestwi-fishangxian time=1629859068.850862000 mode=755 type=dir
+./announcements/csie-guestwi-fishangxian/index.html time=1629859068.852059000 mode=644 type=file size=5471
+./announcements/csie_csie-5g_securer_wifi time=1629859069.736866000 mode=755 type=dir
+./announcements/csie_csie-5g_securer_wifi/index.html time=1629859069.737612000 mode=644 type=file size=6597
+./announcements/csie_lan time=1629859100.568530000 mode=755 type=dir
+./announcements/csie_lan/01.png time=1629859073.421536000 mode=644 type=file size=99491
+./announcements/csie_lan/02.png time=1629859096.336026000 mode=644 type=file size=189678
+./announcements/csie_lan/03.png time=1629859091.929933000 mode=644 type=file size=188550
+./announcements/csie_lan/04.png time=1629859095.82567000 mode=644 type=file size=204722
+./announcements/csie_lan/05.png time=1629859101.223942000 mode=644 type=file size=206086
+./announcements/csie_lan/06.png time=1629859075.671762000 mode=644 type=file size=200796
+./announcements/csie_lan/07.png time=1629859082.849232000 mode=644 type=file size=508320
+./announcements/csie_lan/index.html time=1629859069.609763000 mode=644 type=file size=9226
+./announcements/dacsiehexiaocsiequbie time=1629859069.900548000 mode=755 type=dir
+./announcements/dacsiehexiaocsiequbie/index.html time=1629859069.901254000 mode=644 type=file size=3369
+./announcements/page time=1629859069.882112000 mode=755 type=dir
+./announcements/page/index.html time=1629859069.883588000 mode=644 type=file size=2507
+./announcements/speed50m time=1629859069.571344000 mode=755 type=dir
+./announcements/speed50m/index.html time=1629859069.575700000 mode=644 type=file size=4168
+./announcements/wanglujiagouyouhua14011291xzhengduan time=1629859068.687766000 mode=755 type=dir
+./announcements/wanglujiagouyouhua14011291xzhengduan/index.html time=1629859068.749978000 mode=644 type=file size=3204
+./announcements/wanglushebeiweihuzuoye time=1629859068.819872000 mode=755 type=dir
+./announcements/wanglushebeiweihuzuoye/index.html time=1629859068.821343000 mode=644 type=file size=2720
+./announcements/wuxianjidetaigongchengshigong time=1629859068.931024000 mode=755 type=dir
+./announcements/wuxianjidetaigongchengshigong/index.html time=1629859068.933105000 mode=644 type=file size=2555
+./announcements/zhongyaotaidazigongxiguanwanglushiyongxiaopiebu time=1629859069.959433000 mode=755 type=dir
+./announcements/zhongyaotaidazigongxiguanwanglushiyongxiaopiebu/index.html time=1629859069.962430000 mode=644 type=file size=14791
+./download time=1629859102.960413000 mode=755 type=dir
+./download/aws\346\207\266\344\272\272\345\214\205.docx time=1629859103.165944000 mode=644 type=file size=24768
+./download/ca.crt time=1629859102.516156000 mode=644 type=file size=1651
+./download/config.ovpn time=1629859071.660566000 mode=644 type=file size=2759
+./download/index.html time=1629859068.963498000 mode=644 type=file size=12335
+./download/iperf.rar time=1629859089.734792000 mode=644 type=file size=52423
+./download/pfSense-udp-1194-mac.visc.zip time=1629859093.873207000 mode=644 type=file size=2352
+./home time=1629859069.799352000 mode=755 type=dir
+./home/index.html time=1629859069.800120000 mode=644 type=file size=2711
+./intern time=1629859069.801342000 mode=755 type=dir
+./intern/index.html time=1629859069.780541000 mode=644 type=file size=4522
+./intern/100-2 time=1629859069.801394000 mode=755 type=dir
+./intern/100-2/index.html time=1629859069.802125000 mode=644 type=file size=3879
+./network_check time=1629859068.948675000 mode=755 type=dir
+./network_check/index.html time=1629859068.950457000 mode=644 type=file size=3204
+./violation time=1629859070.74544000 mode=755 type=dir
+./violation/index.html time=1629859070.75213000 mode=644 type=file size=2455
+./vpn time=1629859087.613961000 mode=755 type=dir
+./vpn/index.html time=1629859069.934848000 mode=644 type=file size=5010
+./vpn/mac.png time=1629859087.639051000 mode=644 type=file size=10140
+./vpn/linux time=1629859070.113094000 mode=755 type=dir
+./vpn/linux/index.html time=1629859069.783092000 mode=644 type=file size=3824
+./vpn/linux/linux_cli time=1629859098.434365000 mode=755 type=dir
+./vpn/linux/linux_cli/index.html time=1629859070.114884000 mode=644 type=file size=14663
+./vpn/linux/linux_cli/\344\270\213\350\274\211\0401.png time=1629859080.528502000 mode=644 type=file size=206613
+./vpn/linux/linux_cli/\344\270\213\350\274\211\0402.png time=1629859085.657566000 mode=644 type=file size=102663
+./vpn/linux/linux_cli/\344\270\213\350\274\211\0403.png time=1629859098.672544000 mode=644 type=file size=40629
+./vpn/linux/linux_cli/\344\270\213\350\274\211\0404.png time=1629859091.39085000 mode=644 type=file size=123742
+./vpn/linux/linux_nm_gnome time=1629859101.527751000 mode=755 type=dir
+./vpn/linux/linux_nm_gnome/index.html time=1629859069.910995000 mode=644 type=file size=20015
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211\040(1).png time=1629859093.419903000 mode=644 type=file size=69540
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(2).png time=1629859087.327350000 mode=644 type=file size=105501
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(3).png time=1629859100.266182000 mode=644 type=file size=38983
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(4).png time=1629859072.43797000 mode=644 type=file size=13869
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(5).png time=1629859098.176258000 mode=644 type=file size=41448
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(6).png time=1629859101.916913000 mode=644 type=file size=41435
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(7).png time=1629859078.314482000 mode=644 type=file size=28891
+./vpn/linux/linux_nm_gnome/\344\270\213\350\274\211(8).png time=1629859088.59100000 mode=644 type=file size=29026
+./vpn/mac time=1629859102.169464000 mode=755 type=dir
+./vpn/mac/index.html time=1629859068.845720000 mode=644 type=file size=14846
+./vpn/mac/\344\270\213\350\274\211\0401.png time=1629859102.215712000 mode=644 type=file size=14883
+./vpn/mac/\344\270\213\350\274\211\0402.png time=1629859081.694431000 mode=644 type=file size=96582
+./vpn/mac/\344\270\213\350\274\211\0403.png time=1629859077.24666000 mode=644 type=file size=43774
+./vpn/mac/\344\270\213\350\274\211\0404.png time=1629859084.197867000 mode=644 type=file size=49810
+./vpn/mac/\344\270\213\350\274\211\0405.png time=1629859089.188868000 mode=644 type=file size=7577
+./vpn/mac/\344\270\213\350\274\211\0406.png time=1629859072.576385000 mode=644 type=file size=23267
+./vpn/mac/\344\270\213\350\274\211\0407.png time=1629859096.982976000 mode=644 type=file size=54450
+./vpn/mac/\344\270\213\350\274\211\0408.png time=1629859097.592685000 mode=644 type=file size=22708
+./vpn/mac/\344\270\213\350\274\211\0409.png time=1629859086.232056000 mode=644 type=file size=52453
+./vpn/windows time=1629859099.700806000 mode=755 type=dir
+./vpn/windows/index.html time=1629859069.919894000 mode=644 type=file size=17023
+./vpn/windows/\344\270\213\350\274\211\040(1).png time=1629859099.749816000 mode=644 type=file size=14490
+./vpn/windows/\344\270\213\350\274\211\040(2).png time=1629859080.923321000 mode=644 type=file size=14610
+./vpn/windows/\344\270\213\350\274\211\040(3).png time=1629859079.627451000 mode=644 type=file size=31002
+./vpn/windows/\344\270\213\350\274\211\040(4).png time=1629859084.930263000 mode=644 type=file size=58295
+./vpn/windows/\344\270\213\350\274\211\040(5).png time=1629859090.244668000 mode=644 type=file size=53740
+./vpn/windows/\344\270\213\350\274\211\040(6).png time=1629859079.15231000 mode=644 type=file size=39007
+./vpn/windows/\344\270\213\350\274\211\040(7).png time=1629859070.581497000 mode=644 type=file size=15687
+./vpn/windows/\344\270\213\350\274\211\040(8).png time=1629859074.443070000 mode=644 type=file size=54714
+./vpn/windows/\344\270\213\350\274\211\040(9).png time=1629859076.252254000 mode=644 type=file size=53747
+./vpn/windows/\344\270\213\350\274\211.png time=1629859086.539932000 mode=644 type=file size=10371
+./wireless time=1629859070.14170000 mode=755 type=dir
+./wireless/index.html time=1629859069.741056000 mode=644 type=file size=7629
+./wireless/2012-04csiebuzhongfushiyongrenshu time=1629859068.890475000 mode=755 type=dir
+./wireless/2012-04csiebuzhongfushiyongrenshu/index.html time=1629859068.891842000 mode=644 type=file size=2794
+./wireless/2012-05csiebuzhongfushiyongrenshu time=1629859068.991129000 mode=755 type=dir
+./wireless/2012-05csiebuzhongfushiyongrenshu/index.html time=1629859068.992323000 mode=644 type=file size=2869
+./wireless/csieesystemwuxianwanglufangkezhanghaoxitong time=1629859070.14227000 mode=755 type=dir
+./wireless/csieesystemwuxianwanglufangkezhanghaoxitong/index.html time=1629859070.15009000 mode=644 type=file size=2865
+./wireless/page-1 time=1629859068.987871000 mode=755 type=dir
+./wireless/page-1/index.html time=1629859068.989414000 mode=644 type=file size=2268
